@@ -1,0 +1,14 @@
+# Python / Django
+venv/
+*.pyc
+db.sqlite3
+__pycache__/
+
+# Node / Vue
+node_modules/
+dist/
+.env
+
+# Прочее
+.vscode/
+.idea/
